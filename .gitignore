@@ -1,0 +1,32 @@
+# Backend (Maven & Java)
+quiz-backend/target/
+quiz-backend/*.jar
+quiz-backend/*.war
+quiz-backend/*.class
+
+# Frontend (Node & Vite)
+quiz-frontend/node_modules/
+quiz-frontend/dist/
+quiz-frontend/.env.local
+quiz-frontend/npm-debug.log*
+quiz-frontend/yarn-debug.log*
+quiz-frontend/yarn-error.log*
+
+# IDE & Editors
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+
+# OS Files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & Logs
+*.log
+scratch/
